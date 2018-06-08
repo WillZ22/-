@@ -1,4 +1,4 @@
-# -
-信息服务客户端。
+# infoserviceclient 
+infoserviceclient 
 SPS2.0
 SOS4.4
